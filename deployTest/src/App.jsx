@@ -13,7 +13,7 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        <h1>{labas}</h1>
+        <h1>RASIUKAS MYLIUKAS</h1>
       </div>
     </div>
   );
